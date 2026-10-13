@@ -1,12 +1,3 @@
-# BÀI KIỂM TRA ĐẦU GIỜ — ĐÓNG GÓI VÀ CHẠY CAMPUS HUB VỚI DOCKER
-
-## Thông tin sinh viên
-- **Họ và tên:** [Điền Họ và Tên của bạn tại đây]
-- **Mã sinh viên:** [Điền Mã Sinh Viên của bạn tại đây]
-- **Lớp / Khóa:** DevOps - Session 13
-
----
-
 ## 1. Hướng dẫn các lệnh chạy hệ thống
 
 ### Bước 1: Chạy kiểm thử và build file JAR backend
